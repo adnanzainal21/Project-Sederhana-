@@ -1,2 +1,2 @@
 # Project-Sederhana-
-Edisi coba coba dan gabut 
+Mencoba membaut Sebuah Program Program yang sederhana sebagai atihan logika
